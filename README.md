@@ -8,4 +8,4 @@
 [![codewars](https://www.codewars.com/users/OpsError/badges/large)](https://www.codewars.com/users/OpsError)
 
 ### Моя статистика:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?OpsError=OpsError&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OpsError&theme=vue)
