@@ -2,7 +2,14 @@
 
 Я немного фронтендер и сейчас пытаюсь в фуллстек на Go
 
-<img src="https://i.pinimg.com/736x/e2/67/7d/e2677d29af3debed17ef017ab2eb25ba.jpg" alt="Если вы сомневаетесь, что я умею программировать, то праивльно делаете" width="450" height="200" align="center">
+<div style={
+  display: grid;
+  flex-direction: row;
+}>
+  <img src="https://i.pinimg.com/736x/e2/67/7d/e2677d29af3debed17ef017ab2eb25ba.jpg" alt="Если вы сомневаетесь, что я умею программировать, то праивльно делаете" width="450" height="200" align="center">
+  <img src="https://i.pinimg.com/736x/e2/67/7d/e2677d29af3debed17ef017ab2eb25ba.jpg" alt="Если вы сомневаетесь, что я умею программировать, то праивльно делаете" width="450" height="200" align="center">
+  <img src="https://i.pinimg.com/736x/e2/67/7d/e2677d29af3debed17ef017ab2eb25ba.jpg" alt="Если вы сомневаетесь, что я умею программировать, то праивльно делаете" width="450" height="200" align="center">
+</div>
 
 ### Если после этой картинки ты еще не усомнился в моих способностях, то вот мой стек:
 - TypeScript
